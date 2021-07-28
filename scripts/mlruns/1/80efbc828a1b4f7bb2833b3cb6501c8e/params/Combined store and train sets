@@ -1,0 +1,14 @@
+         Store  DayOfWeek  ... Promo2SinceYear     PromoInterval
+0            1          5  ...             NaN               NaN
+1            2          5  ...          2010.0   Jan,Apr,Jul,Oct
+2            3          5  ...          2011.0   Jan,Apr,Jul,Oct
+3            4          5  ...             NaN               NaN
+4            5          5  ...             NaN               NaN
+...        ...        ...  ...             ...               ...
+1017204   1111          2  ...          2013.0   Jan,Apr,Jul,Oct
+1017205   1112          2  ...             NaN               NaN
+1017206   1113          2  ...             NaN               NaN
+1017207   1114          2  ...             NaN               NaN
+1017208   1115          2  ...          2012.0  Mar,Jun,Sept,Dec
+
+[1017209 rows x 18 columns]

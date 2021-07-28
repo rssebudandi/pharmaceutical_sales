@@ -1,0 +1,4 @@
+Index(['Store', 'StoreType', 'Assortment', 'CompetitionDistance',
+       'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2',
+       'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval'],
+      dtype='object')
